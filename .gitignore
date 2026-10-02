@@ -1,0 +1,10 @@
+__pycache__/
+*.py[cod]
+.DS_Store
+# Данные профиля не должны попадать в репозиторий ни при каких обстоятельствах.
+credentials.json
+config.json
+queue.json
+history.jsonl
+cron.log
+.threads-agent/

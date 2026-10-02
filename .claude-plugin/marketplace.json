@@ -1,0 +1,16 @@
+{
+  "name": "threads-publish-agent",
+  "description": "Агент для планирования и публикации в Threads.",
+  "owner": {
+    "name": "alexignatenko"
+  },
+  "plugins": [
+    {
+      "name": "threads",
+      "source": ".",
+      "description": "Планирует, пишет и публикует посты в Threads через официальный Threads API. Сам проводит онбординг: спрашивает ключи, настраивает голос и правила публикации.",
+      "category": "social-media",
+      "tags": ["threads", "meta", "publishing", "content"]
+    }
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "name": "threads",
+  "displayName": "Threads Publishing Agent",
+  "version": "1.5.0",
+  "description": "Планирует, пишет и публикует посты в Threads через официальный Threads API: онбординг с ключами, профиль голоса, контент-план, цепочки, ответы на комментарии, аналитика.",
+  "author": {
+    "name": "alexignatenko"
+  },
+  "repository": "https://github.com/alexignatenko/threads-publish-agent",
+  "license": "MIT",
+  "keywords": [
+    "threads",
+    "meta",
+    "social-media",
+    "publishing",
+    "content-plan",
+    "api"
+  ]
+}
